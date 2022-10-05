@@ -1,0 +1,40 @@
+h3 {
+    background-color: pink;
+    color: rgba(231, 114, 231, 0.5);
+    font-size: 50px;
+    font-weight: 600;
+}
+div {
+    width: 100%;
+    max-width: 200px;
+    height: 100vh;
+    
+border: 10px solid violet;
+border-width: 20;
+border-style: dotted;
+border-color: blue;
+font-family: "Roboto", sans-serif;
+font-weight: 300;
+
+}
+.heading.red {
+    color: red;
+}
+.blue {
+    color: blue;
+}
+p { color: goldenrod !important;}
+
+
+#title {
+    color: red;
+}
+#title.heading.red {
+    color: mediumspringgreen;
+}
+
+
+section {
+    height: 80vh;
+    border: 1px solid black;
+}
